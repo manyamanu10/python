@@ -1,0 +1,2 @@
+print("manya")
+print("sum")
